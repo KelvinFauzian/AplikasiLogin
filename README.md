@@ -1,9 +1,8 @@
-# AplikasiLogin
-Sebuah aplikasi dengan fitur login
-
-Alur fitur login
-1. Memasukan nama, email dan password
-2. Memvalidasi masukan
-3. Memvalidasi pengguna dengan deteksi wajah
-4. Memasukan nama ibu untuk validasi
-5. Menampilkan halaman home
+Daftar-Biodata-Siswa
+==
+Daftar biodata Siswa Dicoding Academy
+--
+*biodata siswa terdiri dari 3 angkatan yaitu sebagai berikut*
+- Angkatan 2019
+- Angkatan 2020
+- Angkatan 2021
